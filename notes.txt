@@ -1,8 +1,9 @@
 HELLO
-Jesus Manuel Gonzalez Mendez
+VICTOR MANUEL SOLIS CARDOZA
+jesus Manuel Gonzalez Mendez
 
-
-
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
 
 
 
@@ -10,4 +11,40 @@ Jesus Manuel Gonzalez Mendez
 Este es un cambio, que va a dejar a las ramas BEHIND
 
 
-VA A TENER UN CAMBIO QUE TU CONSIDERAS QUE YA ESTA BIEN!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTE CAMBIO ES CRUCIAL Y LO DEBEN DE TENER TODOS!!!!
