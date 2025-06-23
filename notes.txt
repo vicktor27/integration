@@ -1,8 +1,10 @@
 HELLO
+VICTOR MANUEL SOLIS CARDOZA
 Valeria Espino Rubio
 
 
-
+  git config --global user.name "Your Name"
+  git config --global user.email "your.email@example.com"
 
 
 
@@ -10,4 +12,40 @@ Valeria Espino Rubio
 Este es un cambio, que va a dejar a las ramas BEHIND
 
 
-VA A TENER UN CAMBIO QUE TU CONSIDERAS QUE YA ESTA BIEN!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ESTE CAMBIO ES CRUCIAL Y LO DEBEN DE TENER TODOS!!!!
