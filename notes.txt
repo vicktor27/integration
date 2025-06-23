@@ -1,6 +1,5 @@
 HELLO
 VICTOR MANUEL SOLIS CARDOZA
-Ariel Sanchez Hernandez
 
 
   git config --global user.name "Your Name"
