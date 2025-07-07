@@ -1,5 +1,10 @@
 HELLO
+<<<<<<< HEAD
 Doustan Daniel Mireles Rodriguez
+=======
+EDDIE BURCIAGA 
+
+>>>>>>> main
 
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
