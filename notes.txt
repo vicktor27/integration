@@ -1,6 +1,6 @@
 HELLO
 VICTOR MANUEL SOLIS CARDOZA
-
+Paulina Pedroza Rojas 
 
   git config --global user.name "Your Name"
   git config --global user.email "your.email@example.com"
@@ -11,6 +11,7 @@ VICTOR MANUEL SOLIS CARDOZA
 Este es un cambio, que va a dejar a las ramas BEHIND
 
 
+VA A TENER UN CAMBIO QUE TU CONSIDERAS QUE YA ESTA BIEN!
 
 
 
@@ -46,5 +47,3 @@ Este es un cambio, que va a dejar a las ramas BEHIND
 
 
 
-
-ESTE CAMBIO ES CRUCIAL Y LO DEBEN DE TENER TODOS!!!!
