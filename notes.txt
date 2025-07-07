@@ -1,6 +1,10 @@
 HELLO
+<<<<<<< HEAD
 Sebastian Woo Ramirez
 VICTOR MANUEL SOLIS CARDOZA
+=======
+EDDIE BURCIAGA 
+>>>>>>> main
 
 
   git config --global user.name "Your Name"
